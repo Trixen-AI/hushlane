@@ -1,0 +1,182 @@
+[
+  {
+    "key": "solana",
+    "file": "logos/solana.svg",
+    "brand": "Solana",
+    "sourcePageUrl": "https://solana.com/branding",
+    "downloadUrl": "https://solana.com/src/img/branding/solanaLogo.svg",
+    "variant": "horizontal colour (gradient mark + white wordmark, for dark backgrounds)",
+    "notes": "Official Logotype from the Solana brand page. The wordmark is white, so it needs a dark background; the page offers no dark-wordmark version."
+  },
+  {
+    "key": "solana-mark",
+    "file": "logos/solana-mark.svg",
+    "brand": "Solana",
+    "sourcePageUrl": "https://solana.com/branding",
+    "downloadUrl": "https://solana.com/src/img/branding/solanaLogoMark.svg",
+    "variant": "mark (gradient)",
+    "notes": "Official logomark."
+  },
+  {
+    "key": "zcash",
+    "file": "logos/zcash.svg",
+    "brand": "Zcash",
+    "sourcePageUrl": "https://z.cash/press/",
+    "downloadUrl": "https://z.cash/wp-content/uploads/2023/12/Primary-Logo-Black-Yellow.svg",
+    "variant": "horizontal colour (yellow mark + black wordmark, for light backgrounds)",
+    "notes": "Primary logo from the z.cash press kit. The viewBox includes generous built-in clear space."
+  },
+  {
+    "key": "zcash-white",
+    "file": "logos/zcash-white.svg",
+    "brand": "Zcash",
+    "sourcePageUrl": "https://z.cash/press/",
+    "downloadUrl": "https://z.cash/wp-content/uploads/2023/12/Primary-Logo-White-Yellow.svg",
+    "variant": "horizontal colour (yellow mark + white wordmark, for dark backgrounds)",
+    "notes": "Kit-provided on-dark variant."
+  },
+  {
+    "key": "zcash-mark",
+    "file": "logos/zcash-mark.svg",
+    "brand": "Zcash",
+    "sourcePageUrl": "https://z.cash/press/",
+    "downloadUrl": "https://z.cash/wp-content/uploads/2023/11/Brandmark-Yellow.svg",
+    "variant": "mark (yellow)",
+    "notes": "Primary brandmark. Square 1080 artboard with built-in padding."
+  },
+  {
+    "key": "usdc",
+    "file": "logos/usdc.svg",
+    "brand": "USDC (Circle)",
+    "sourcePageUrl": "https://www.usdc.com/",
+    "downloadUrl": "https://cdn.prod.website-files.com/66327d2c71b7019a2a9a1b62/67c8850799c5bdc15291c334_usdc-logo_ondark.svg",
+    "variant": "horizontal, single colour #EDEDED (for dark backgrounds)",
+    "notes": "The Circle brand kit (https://www.circle.com/pressroom#brandkit) could not be reached from this network because circle.com is blocked at DNS level here. This is the header logo from Circle's official usdc.com site. No full-colour horizontal version could be downloaded."
+  },
+  {
+    "key": "usdc-mark",
+    "file": "logos/usdc-mark.svg",
+    "brand": "USDC (Circle)",
+    "sourcePageUrl": "https://github.com/circlefin/arc-commerce",
+    "downloadUrl": "https://raw.githubusercontent.com/circlefin/arc-commerce/master/public/usdc-logo.svg",
+    "variant": "mark (token icon, blue #0B53BF)",
+    "notes": "From the official Circle GitHub org (circlefin). This is a sample-app asset, not a brand-kit file, but it matches the current darker-blue token. Replace it with the pressroom kit file when circle.com is reachable."
+  },
+  {
+    "key": "phantom",
+    "file": "logos/phantom.svg",
+    "brand": "Phantom",
+    "sourcePageUrl": "https://docs.phantom.com/resources/assets",
+    "downloadUrl": "https://187760183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVOiF6Zqit57q_hxJYp%2Fuploads%2F76nE5VTUa3iCCzwlkEbC%2FPhantom-Integration-Assets.zip?alt=media&token=b91a3de7-3f28-4b78-a17c-5d36f4f6ee01",
+    "variant": "horizontal colour (purple #AB9FF2)",
+    "notes": "Phantom-Integration-Assets.zip > Logos/Phantom-Logo-Purple.svg, linked from the official Phantom docs."
+  },
+  {
+    "key": "phantom-white",
+    "file": "logos/phantom-white.svg",
+    "brand": "Phantom",
+    "sourcePageUrl": "https://docs.phantom.com/resources/assets",
+    "downloadUrl": "https://187760183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVOiF6Zqit57q_hxJYp%2Fuploads%2F76nE5VTUa3iCCzwlkEbC%2FPhantom-Integration-Assets.zip?alt=media&token=b91a3de7-3f28-4b78-a17c-5d36f4f6ee01",
+    "variant": "horizontal white (#FFFDF8, for dark backgrounds)",
+    "notes": "Same ZIP > Logos/Phantom-Logo-White.svg."
+  },
+  {
+    "key": "solflare",
+    "file": "logos/solflare.svg",
+    "brand": "Solflare",
+    "sourcePageUrl": "https://www.solflare.com/about/",
+    "downloadUrl": "https://www.solflare.com/wp-content/uploads/2024/11/solflare-text-logo.svg",
+    "variant": "horizontal wordmark, single colour #02050A (for light backgrounds)",
+    "notes": "The official brand kit (https://www.solflare.com/solflare-brand-kit.zip) has only 800x800 square artboards with a filled background rect, so the transparent horizontal wordmark from solflare.com is used instead. It is the same current gothic wordmark (checked visually)."
+  },
+  {
+    "key": "backpack",
+    "file": "logos/backpack.svg",
+    "brand": "Backpack",
+    "sourcePageUrl": "https://backpack.app/media-kit",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=1on37L9qGJucz7cXb7skHMCpdiHAwaP_A&export=download",
+    "variant": "horizontal colour Backpack Wallet lockup (red mark + black wordmark)",
+    "notes": "Official media kit Google Drive > Backpack Media Kit > SVG > Backpack Wallet > Backpack-Wallet-Wordmark-1.svg. The master Backpack lockup (SVG/Default_Logo_Horizontal.svg, Drive id 1PPg_1wNCfKx4Qsa-wm52f_k0QaeytEor) is also available."
+  },
+  {
+    "key": "backpack-white",
+    "file": "logos/backpack-white.svg",
+    "brand": "Backpack",
+    "sourcePageUrl": "https://backpack.app/media-kit",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=1KyYHJC1IIiV4i_yxad5O8RvaDJIpX-AP&export=download",
+    "variant": "horizontal colour Backpack Wallet lockup (red mark + white wordmark, for dark backgrounds)",
+    "notes": "Backpack-Wallet-Wordmark-2.svg from the same kit."
+  },
+  {
+    "key": "ledger",
+    "file": "logos/ledger.svg",
+    "brand": "Ledger",
+    "sourcePageUrl": "https://www.ledger.com/press",
+    "downloadUrl": "https://downloads.ctfassets.net/ge894kijjvls/5h5wCwz5ttJ0G1t7MT4rDX/902db9a4f79412a45e64993c3f061ee0/Ledger_Press_kit_october_2025.zip",
+    "variant": "horizontal wordmark, black (the Ledger logo is monochrome)",
+    "notes": "Ledger_Press_kit_october_2025.zip > Logos/Ledger/LEDGER-WORDMARK-BLACK-RGB.svg. It has no fill attribute, so it renders black by default."
+  },
+  {
+    "key": "ledger-white",
+    "file": "logos/ledger-white.svg",
+    "brand": "Ledger",
+    "sourcePageUrl": "https://www.ledger.com/press",
+    "downloadUrl": "https://downloads.ctfassets.net/ge894kijjvls/5h5wCwz5ttJ0G1t7MT4rDX/902db9a4f79412a45e64993c3f061ee0/Ledger_Press_kit_october_2025.zip",
+    "variant": "horizontal wordmark, white (for dark backgrounds)",
+    "notes": "Same ZIP > Logos/Ledger/White -Ledger logo.svg."
+  },
+  {
+    "key": "trezor",
+    "file": "logos/trezor.svg",
+    "brand": "Trezor",
+    "sourcePageUrl": "https://trezor.visualbook.pro/trezor/logos/main-logo",
+    "downloadUrl": "https://trezor.visualbook.pro/media/pages/trezor/logos/main-logo/220005efe2-1786016191/trezor-main-logo.zip",
+    "variant": "horizontal, black RGB (the Trezor logo is monochrome)",
+    "notes": "The official SatoshiLabs visualbook (linked from trezor.io/press-and-media). Logopack ZIP > Trezor main logo/black/web/trezor-main-logo-black-rgb.svg."
+  },
+  {
+    "key": "trezor-white",
+    "file": "logos/trezor-white.svg",
+    "brand": "Trezor",
+    "sourcePageUrl": "https://trezor.visualbook.pro/trezor/logos/main-logo",
+    "downloadUrl": "https://trezor.visualbook.pro/media/pages/trezor/logos/main-logo/220005efe2-1786016191/trezor-main-logo.zip",
+    "variant": "horizontal, white RGB (for dark backgrounds)",
+    "notes": "Logopack ZIP > Trezor main logo/white/web/trezor-main-logo-white-rgb.svg."
+  },
+  {
+    "key": "exodus",
+    "file": "logos/exodus.svg",
+    "brand": "Exodus",
+    "sourcePageUrl": "https://www.exodus.com/brand/",
+    "downloadUrl": "https://www.exodus.com/brand/dl/images/Exodus_logo_dark.svg",
+    "variant": "horizontal colour (gradient mark + dark #1F2033 wordmark, for light backgrounds)",
+    "notes": "Official Exodus brand page."
+  },
+  {
+    "key": "exodus-white",
+    "file": "logos/exodus-white.svg",
+    "brand": "Exodus",
+    "sourcePageUrl": "https://www.exodus.com/brand/",
+    "downloadUrl": "https://www.exodus.com/brand/dl/images/Exodus_logo_white.svg",
+    "variant": "horizontal colour (gradient mark + white wordmark, for dark backgrounds)",
+    "notes": "Official Exodus brand page."
+  },
+  {
+    "key": "trustwallet",
+    "file": "logos/trustwallet.svg",
+    "brand": "Trust Wallet",
+    "sourcePageUrl": "https://trustwallet.com/press",
+    "downloadUrl": "https://trustwallet.com/download/logos.zip",
+    "variant": "horizontal colour (blue #0500FF)",
+    "notes": "logos.zip > Trust - Logos/Trust Wallet Logos/Trust Wallet Core Logo/SVG/Trust Wallet Core Logo_Blue.svg. The kit also has a green (#48FF91) core logo and white or black wordmarks."
+  },
+  {
+    "key": "x",
+    "file": "social/x.svg",
+    "brand": "X",
+    "sourcePageUrl": "https://about.x.com/en/who-we-are/brand-toolkit",
+    "downloadUrl": "https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-logo.zip",
+    "variant": "X logo, white fill",
+    "notes": "x-logo.zip > logo.svg, from the Aug 2023 X brand toolkit (same folder as the official x-brand-guidelines.pdf). The kit ships only this white SVG; black is PNG only. The toolkit HTML page still shows the old Twitter downloads."
+  }
+]
