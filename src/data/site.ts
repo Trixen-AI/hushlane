@@ -2,7 +2,7 @@
 
 export const BRAND = 'Hushlane'
 
-export const X_URL = 'https://x.com/Hushlane_xyz'
+export const X_URL = 'https://x.com/HushlaneApp'
 
 /** Main call to action, used in the header and the hero. Opens the dashboard. */
 export const APP_PATH = '/app'
