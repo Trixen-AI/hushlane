@@ -35,7 +35,7 @@ const withSvg = (list: Brand[]) =>
 export const walletRows = [withSvg(ROW_ONE), withSvg(ROW_TWO)]
 
 // Social links. Only X for now.
-const SOCIAL = [{ key: 'x', label: 'Hushlane on X', href: 'https://x.com/Hushlane_xyz' }]
+const SOCIAL = [{ key: 'x', label: 'Hushlane on X', href: 'https://x.com/HushlaneApp' }]
 
 // The icon sits on an ink disc, so the white X logo from the official kit is used.
 export const socials = SOCIAL.map((s) => ({ ...s, svg: pick(social, 'social', `${s.key}-white`) ?? pick(social, 'social', s.key) }))
